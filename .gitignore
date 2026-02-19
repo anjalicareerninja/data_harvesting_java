@@ -1,0 +1,25 @@
+# System symlinks / docker fs junk
+bin/
+lib/
+lib32/
+lib64/
+libx32/
+opt/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Sandbox outputs
+sandbox_codes/
+reports/
+output.txt
+
+# Virtual env
+.venv/
+
+# Logs
+*.log
+
+# Data (if large and not needed)
+# *.csv
