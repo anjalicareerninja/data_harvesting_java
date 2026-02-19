@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="JUnit Platform Suite" tests="0" skipped="0" failures="0" errors="0" time="0.002" hostname="LAPTOP-O7S630OA" timestamp="2026-02-04T16:28:05">
+<properties>
+<property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+<property name="file.encoding" value="Cp1252"/>
+<property name="file.encoding.pkg" value="sun.io"/>
+<property name="file.separator" value="\"/>
+<property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+<property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+<property name="java.class.path" value="E:\Docker\full_fs\opt\java_libs/junit-platform-console-standalone.jar"/>
+<property name="java.class.version" value="52.0"/>
+<property name="java.endorsed.dirs" value="C:\Java\jdk1.8.0_202\jre\lib\endorsed"/>
+<property name="java.ext.dirs" value="C:\Java\jdk1.8.0_202\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+<property name="java.home" value="C:\Java\jdk1.8.0_202\jre"/>
+<property name="java.io.tmpdir" value="C:\Users\Anjali\AppData\Local\Temp\"/>
+<property name="java.library.path" value="C:\Java\jdk1.8.0_202\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\Python 3.10\Scripts\;D:\Python 3.10\;D:\Python\Scripts\;D:\Python\;D:\Oracle\app\oracle\product\11.2.0\server\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Matlab\bin;C:\MinGW\bin;%MAVEN_PATH%\bin;D:\Java jdk\bin;D:\Java jdk\apache-maven-3.8.6-bin\apache-maven-3.8.6\bin;C:\Java\jdk1.8.0_202;C:\Java\jdk1.8.0_202\bin;C:\hadoop-3.2.4\bin;C:\hadoop-3.2.4\sbin;C:\hadoop-3.2.4;C:\Program Files\MongoDB\mongosh-2.0.2-win32-x64\bin;C:\ProgramData\chocolatey\bin;D:\CMake\bin;D:\NodeJS\;C:\Program Files\MySQL\MySQL Server 9.1\bin;D:\PHP;E:\Portfolio\PHP;C:\Program Files\MATLAB\R2024b\bin;D:\MySQL\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Users\Anjali\.console-ninja\.bin;D:\Anaconda;D:\Anaconda\Library\mingw-w64\bin;D:\Anaconda\Library\usr\bin;D:\Anaconda\Library\bin;D:\Anaconda\Scripts;D:\Python\Scripts\;D:\Python\;C:\Users\Anjali\AppData\Local\Microsoft\WindowsApps;D:\Visual Studio\Microsoft VS Code\bin;D:\Python\Scripts;C:\Users\Anjali\AppData\Local\Programs\Ollama;C:\Users\Anjali\AppData\Roaming\npm;C:\Users\Anjali\AppData\Local\Microsoft\WindowsApps;D:\cursor\resources\app\bin;D:\Antigravity\bin;C:\Program Files\Docker\Docker\resources\bin;c:\Users\Anjali\.cursor\extensions\ms-python.debugpy-2025.18.0-win32-x64\bundled\scripts\noConfigScripts;."/>
+<property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+<property name="java.runtime.version" value="1.8.0_202-b08"/>
+<property name="java.specification.name" value="Java Platform API Specification"/>
+<property name="java.specification.vendor" value="Oracle Corporation"/>
+<property name="java.specification.version" value="1.8"/>
+<property name="java.vendor" value="Oracle Corporation"/>
+<property name="java.vendor.url" value="http://java.oracle.com/"/>
+<property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+<property name="java.version" value="1.8.0_202"/>
+<property name="java.vm.info" value="mixed mode"/>
+<property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+<property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+<property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+<property name="java.vm.specification.version" value="1.8"/>
+<property name="java.vm.vendor" value="Oracle Corporation"/>
+<property name="java.vm.version" value="25.202-b08"/>
+<property name="junit.docs.version" value="1.11.4"/>
+<property name="line.separator" value="&#13;&#10;"/>
+<property name="os.arch" value="amd64"/>
+<property name="os.name" value="Windows 10"/>
+<property name="os.version" value="10.0"/>
+<property name="path.separator" value=";"/>
+<property name="sun.arch.data.model" value="64"/>
+<property name="sun.boot.class.path" value="C:\Java\jdk1.8.0_202\jre\lib\resources.jar;C:\Java\jdk1.8.0_202\jre\lib\rt.jar;C:\Java\jdk1.8.0_202\jre\lib\sunrsasign.jar;C:\Java\jdk1.8.0_202\jre\lib\jsse.jar;C:\Java\jdk1.8.0_202\jre\lib\jce.jar;C:\Java\jdk1.8.0_202\jre\lib\charsets.jar;C:\Java\jdk1.8.0_202\jre\lib\jfr.jar;C:\Java\jdk1.8.0_202\jre\classes"/>
+<property name="sun.boot.library.path" value="C:\Java\jdk1.8.0_202\jre\bin"/>
+<property name="sun.cpu.endian" value="little"/>
+<property name="sun.cpu.isalist" value="amd64"/>
+<property name="sun.desktop" value="windows"/>
+<property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+<property name="sun.java.command" value="E:\Docker\full_fs\opt\java_libs/junit-platform-console-standalone.jar execute --class-path .;E:\Docker\full_fs\opt\java_libs/json.jar;E:\Docker\full_fs\opt\java_libs/gson.jar --scan-class-path --reports-dir reports --details none"/>
+<property name="sun.java.launcher" value="SUN_STANDARD"/>
+<property name="sun.jnu.encoding" value="Cp1252"/>
+<property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+<property name="sun.os.patch.level" value=""/>
+<property name="user.country" value="IN"/>
+<property name="user.dir" value="E:\Docker\full_fs\sandbox_codes\java\6eff8102a5144461b528057d62ebe7bf"/>
+<property name="user.home" value="C:\Users\Anjali"/>
+<property name="user.language" value="en"/>
+<property name="user.name" value="Anjali"/>
+<property name="user.script" value=""/>
+<property name="user.timezone" value="Asia/Calcutta"/>
+<property name="user.variant" value=""/>
+</properties>
+<system-out><![CDATA[
+unique-id: [engine:junit-platform-suite]
+display-name: JUnit Platform Suite
+]]></system-out>
+</testsuite>

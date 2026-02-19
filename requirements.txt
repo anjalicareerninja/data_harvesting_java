@@ -1,0 +1,3 @@
+# Pipeline + run_eval (data/)
+PyYAML>=6.0
+psutil>=5.9.0
